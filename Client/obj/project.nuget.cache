@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5WEIT3M75R0tYHwAKkKQ36LzoVsuWkphKU4r5FqnHBRLs6qmMMxrL+FKF1NAH2eP0qDepIyZGf/K4O5QUs8Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LenovO\\source\\repos\\DemoWebApi\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LenovO\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
